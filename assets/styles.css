@@ -1,0 +1,33 @@
+body{
+    margin:0;
+    padding:0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    }
+
+    .text-container{
+     padding:20px;
+    }
+
+    h1{
+        text-align:center;
+    }
+
+    #task-input{
+        padding:10px;
+    }
+
+    .button{
+        padding: 10px;
+        background-color: rgb(3, 167, 113);
+        color:black;
+        border-radius: 4px;
+        cursor:pointer;
+    }
+
+  #task-input:hover{
+        border-color:blue;
+      }
+    
+
